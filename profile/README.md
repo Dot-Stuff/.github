@@ -1,4 +1,4 @@
-# DOT-STUFF [ON HOLIDAYS]
+# DOT-STUFF
 
 A small, dedicated HaxeFlixel team, pushing its boundaries to provide the Flash ecosystem to other Flixel programmers around!
 
