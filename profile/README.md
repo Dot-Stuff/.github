@@ -1,6 +1,6 @@
 <h1>
   <picture>
-    <img width="60%" alt="DOT-STUFF" src="../dot logo.svg"/>
+    <img width="100%" alt="DOT-STUFF" src="../dot logo.svg"/>
   </picture>
 </h1>
 
